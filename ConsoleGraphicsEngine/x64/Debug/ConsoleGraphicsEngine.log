@@ -1,0 +1,3 @@
+﻿  ConsoleGraphicsEngine.cpp
+C:\Users\Collin\source\repos\ConsoleGraphicsEngine\ConsoleGraphicsEngine\ConsoleGraphicsEngine.cpp(8,21): warning C4455: 'operator ""s': literal suffix identifiers that do not start with an underscore are reserved
+  ConsoleGraphicsEngine.vcxproj -> C:\Users\Collin\source\repos\ConsoleGraphicsEngine\x64\Debug\ConsoleGraphicsEngine.exe

@@ -1,0 +1,7 @@
+﻿  GraphicsEngine.cpp
+C:\Users\Collin\source\repos\ConsoleGraphicsEngine\ConsoleGraphicsEngine\GraphicsEngine.h(29,7): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'GraphicsEngine.cpp')
+  C:\Users\Collin\source\repos\ConsoleGraphicsEngine\ConsoleGraphicsEngine\GraphicsEngine.h(29,7):
+  This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+  ConsoleGraphicsEngine.vcxproj -> C:\Users\Collin\source\repos\ConsoleGraphicsEngine\Debug\ConsoleGraphicsEngine.exe

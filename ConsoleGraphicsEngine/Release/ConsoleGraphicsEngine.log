@@ -1,0 +1,8 @@
+﻿  ConsoleGraphicsEngine.cpp
+C:\Users\Collin\source\repos\ConsoleGraphicsEngine\ConsoleGraphicsEngine\ConsoleGraphicsEngine.cpp(13,21): warning C4455: 'operator ""s': literal suffix identifiers that do not start with an underscore are reserved
+  Generating code
+  0 of 129 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConsoleGraphicsEngine.vcxproj -> C:\Users\Collin\source\repos\ConsoleGraphicsEngine\Release\ConsoleGraphicsEngine.exe
